@@ -159,13 +159,6 @@ Possible future enhancements include:
 
 ---
 
-# Authors
-
-- Kenneth Yan Santana Oliveira
-- [Nome da colega]
-
----
-
 # Academic Context
 
 This repository was developed as part of an academic assignment involving:
